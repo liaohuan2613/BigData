@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BigData.iml" filepath="$PROJECT_DIR$/BigData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RPCTest/RPCTest.iml" filepath="$PROJECT_DIR$/RPCTest/RPCTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RPCTest/rpc-client/rpc-client.iml" filepath="$PROJECT_DIR$/RPCTest/rpc-client/rpc-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RPCTest/rpc-common/rpc-common.iml" filepath="$PROJECT_DIR$/RPCTest/rpc-common/rpc-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RPCTest/rpc-register/rpc-register.iml" filepath="$PROJECT_DIR$/RPCTest/rpc-register/rpc-register.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RPCTest/rpc-sample-app/rpc-sample-app.iml" filepath="$PROJECT_DIR$/RPCTest/rpc-sample-app/rpc-sample-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RPCTest/rpc-sample-client/rpc-sample-client.iml" filepath="$PROJECT_DIR$/RPCTest/rpc-sample-client/rpc-sample-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RPCTest/rpc-sample-client/rpc-sample-client (1).iml" filepath="$PROJECT_DIR$/RPCTest/rpc-sample-client/rpc-sample-client (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/RPCTest/rpc-sample-server/rpc-sample-server.iml" filepath="$PROJECT_DIR$/RPCTest/rpc-sample-server/rpc-sample-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RPCTest/rpc-sample-server/rpc-sample-server (1).iml" filepath="$PROJECT_DIR$/RPCTest/rpc-sample-server/rpc-sample-server (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/RPCTest/rpc-server/rpc-server.iml" filepath="$PROJECT_DIR$/RPCTest/rpc-server/rpc-server.iml" />
+    </modules>
+  </component>
+</project>
